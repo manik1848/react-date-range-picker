@@ -8,8 +8,10 @@ A customizable and user-friendly **Date Range Picker** component for React appli
 
 To install the package, run the following command:
 
-````bash
+```bash
 npm install @manik1848/react-date-range-picker
+
+```
 
 ## Usage
 
@@ -41,7 +43,7 @@ const App = () => {
 };
 
 export default App;
-````
+```
 
 ## Props
 
