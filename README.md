@@ -58,10 +58,14 @@ The `DateRangePicker` component accepts the following props:
 
 ### 1. **Quick Select Modal**
 
+![Quick Select Modal](https://raw.githubusercontent.com/manik1848/react-date-range-picker/667711914a06a8ea8e66070c34340803a95a5f80/images/Screenshot%202025-03-10%20at%209.38.20%E2%80%AFPM.png)
+
 - **Common Ranges**: Predefined ranges like "Today", "Last 15 minutes", "Last 24 hours", etc.
 - **Custom Range**: Allows users to specify a custom range by entering a value and selecting a unit (seconds, minutes, hours, etc.).
 
 ### 2. **Advanced Modal**
+
+![Advanced Modal](https://raw.githubusercontent.com/manik1848/react-date-range-picker/667711914a06a8ea8e66070c34340803a95a5f80/images/Screenshot%202025-03-10%20at%209.37.45%E2%80%AFPM.png)
 
 - **Absolute Tab**: Select a specific date and time using a calendar and time picker.
 - **Relative Tab**: Set a date relative to the current time (e.g., "1 hour ago").
